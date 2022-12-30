@@ -1,2 +1,4 @@
-# Shredder_machine_CV_project
-This is problem based solution of the shredder machine in which there are chances of accident, we solve this problem using computer vision project
+# Shredder-Machine
+
+### DEMO
+![gif from nerdy.dev](https://github.com/DeepranjanG/DeepranjanG/blob/main/Shredder-Machine.gif?raw=true)
